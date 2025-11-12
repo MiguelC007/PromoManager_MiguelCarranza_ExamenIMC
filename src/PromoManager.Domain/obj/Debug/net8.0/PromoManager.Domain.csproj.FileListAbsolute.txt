@@ -1,0 +1,11 @@
+C:\Users\migue\OneDrive\Escritorio\233 INGENIERÍA DE SOFTWARE II\PromoManager_MiguelCarranza_ExamenI\src\PromoManager.Domain\bin\Debug\net8.0\PromoManager.Domain.deps.json
+C:\Users\migue\OneDrive\Escritorio\233 INGENIERÍA DE SOFTWARE II\PromoManager_MiguelCarranza_ExamenI\src\PromoManager.Domain\bin\Debug\net8.0\PromoManager.Domain.dll
+C:\Users\migue\OneDrive\Escritorio\233 INGENIERÍA DE SOFTWARE II\PromoManager_MiguelCarranza_ExamenI\src\PromoManager.Domain\bin\Debug\net8.0\PromoManager.Domain.pdb
+C:\Users\migue\OneDrive\Escritorio\233 INGENIERÍA DE SOFTWARE II\PromoManager_MiguelCarranza_ExamenI\src\PromoManager.Domain\obj\Debug\net8.0\PromoManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Escritorio\233 INGENIERÍA DE SOFTWARE II\PromoManager_MiguelCarranza_ExamenI\src\PromoManager.Domain\obj\Debug\net8.0\PromoManager.Domain.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Escritorio\233 INGENIERÍA DE SOFTWARE II\PromoManager_MiguelCarranza_ExamenI\src\PromoManager.Domain\obj\Debug\net8.0\PromoManager.Domain.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Escritorio\233 INGENIERÍA DE SOFTWARE II\PromoManager_MiguelCarranza_ExamenI\src\PromoManager.Domain\obj\Debug\net8.0\PromoManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Escritorio\233 INGENIERÍA DE SOFTWARE II\PromoManager_MiguelCarranza_ExamenI\src\PromoManager.Domain\obj\Debug\net8.0\PromoManager.Domain.dll
+C:\Users\migue\OneDrive\Escritorio\233 INGENIERÍA DE SOFTWARE II\PromoManager_MiguelCarranza_ExamenI\src\PromoManager.Domain\obj\Debug\net8.0\refint\PromoManager.Domain.dll
+C:\Users\migue\OneDrive\Escritorio\233 INGENIERÍA DE SOFTWARE II\PromoManager_MiguelCarranza_ExamenI\src\PromoManager.Domain\obj\Debug\net8.0\PromoManager.Domain.pdb
+C:\Users\migue\OneDrive\Escritorio\233 INGENIERÍA DE SOFTWARE II\PromoManager_MiguelCarranza_ExamenI\src\PromoManager.Domain\obj\Debug\net8.0\ref\PromoManager.Domain.dll
