@@ -1,7 +1,7 @@
-Buenas noches, Miguel Carranza Avilez - 62211533
+Buenas nches, Miguel Carranza Avilez - 62211533
 
 
-Estructura del proyecto
+esta Estructura contiene lo siguiente del Examens
 El proyecto está dividido en capas principales, siguiendo una arquitectura limpia:
 
 PromoManager.Domain
